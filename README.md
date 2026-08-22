@@ -1,6 +1,108 @@
-# 💫 About Me:
-I work on my company Xornexz. WebApps, websites, android or iOS applications. <br>We do ai integrations too. <br>I work as a full stack developer.<br>I personally have made some SaaS products those I run. <br>I am willing to work on projects that interests me. <br>
+# 👋 Hi, I'm Saymoon Islam Shafin
 
+### Software Engineering Student • Full-Stack Developer • Builder
+
+I'm a Software Engineering student at **American International University-Bangladesh (AIUB)** who enjoys building practical software and turning ideas into real-world products.
+
+I'm interested in **full-stack development, AI, automation, SaaS, and problem-solving through technology**.
+
+---
+
+## 🚀 My Projects
+
+### 🤖 QuicBizz
+
+An AI-powered business automation platform designed to help businesses improve customer communication and automate repetitive tasks.
+
+🌐 **Live Website:** [quicbizz.netlify.app](https://quicbizz.netlify.app)
+
+---
+
+### 🌸 Scentos BD
+
+A web platform built for **Scentos BD**, providing customers with an online experience for exploring their products and services.
+
+🌐 **Live Website:** [scentosbd.vercel.app](https://scentosbd.vercel.app)
+
+---
+
+### 🏠 House Management BD
+
+A property and tenant management platform designed to simplify house management, tenant records, payments, bills, and related tasks.
+
+🌐 **Live Website:** [housemanagementbd.netlify.app](https://housemanagementbd.netlify.app)
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,dart,html,css,flutter,nodejs,postgres,supabase,git,github,vscode" />
+</p>
+
+---
+
+## 💡 What I Like Building
+
+- 🤖 AI-powered applications
+- ⚙️ Business automation systems
+- 🌐 Full-stack web applications
+- 📱 Cross-platform applications
+- 🏢 Business management systems
+- 🗄️ Database-driven applications
+- 🔗 API integrations
+- 🚀 SaaS products
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Software Engineering
+- System Design & Architecture
+- AI & Machine Learning
+- Backend Development
+- Algorithms & Data Structures
+- Cloud & Deployment
+- Building scalable applications
+
+---
+
+## 🎯 My Philosophy
+
+> **Build useful software, solve real problems, and keep learning.**
+
+I enjoy taking an idea from concept → development → deployment and continuously improving it along the way.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and check out the projects I'm working on.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saymoon Islam Shafin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_saymoon) 
